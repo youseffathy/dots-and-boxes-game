@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1513723518 source:c:\users\shiko\desktop\project\68 the main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"player_rank.h"
+	"save_load.h"
+	"computer.h"
+	"type_erase_letters.h"
+	"check_for_closed_box_different_lines.h"
+	"grid_display.h"
+
+1513723528 c:\users\shiko\desktop\project\68 the main\player_rank.h
+
+1513723039 c:\users\shiko\desktop\project\68 the main\save_load.h
+
+1513722153 c:\users\shiko\desktop\project\68 the main\computer.h
+
+1513722290 c:\users\shiko\desktop\project\68 the main\type_erase_letters.h
+
+1513722734 c:\users\shiko\desktop\project\68 the main\check_for_closed_box_different_lines.h
+
+1513723246 c:\users\shiko\desktop\project\68 the main\grid_display.h
+
+1513858771 source:c:\users\abdelrahman youssef\downloads\compressed\68 the main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"player_rank.h"
+	"save_load.h"
+	"computer.h"
+	"type_erase_letters.h"
+	"check_for_closed_box_different_lines.h"
+	"grid_display.h"
+
+1513858500 c:\users\abdelrahman youssef\downloads\compressed\68 the main\player_rank.h
+
+1513723039 c:\users\abdelrahman youssef\downloads\compressed\68 the main\save_load.h
+
+1513722153 c:\users\abdelrahman youssef\downloads\compressed\68 the main\computer.h
+
+1513722290 c:\users\abdelrahman youssef\downloads\compressed\68 the main\type_erase_letters.h
+
+1513722734 c:\users\abdelrahman youssef\downloads\compressed\68 the main\check_for_closed_box_different_lines.h
+
+1513727270 c:\users\abdelrahman youssef\downloads\compressed\68 the main\grid_display.h
+
+1513860187 source:c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"player_rank.h"
+	"save_load.h"
+	"computer.h"
+	"type_erase_letters.h"
+	"check_for_closed_box_different_lines.h"
+	"grid_display.h"
+
+1513858500 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\player_rank.h
+
+1513723039 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\save_load.h
+
+1513722153 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\computer.h
+
+1513722290 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\type_erase_letters.h
+
+1513722734 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\check_for_closed_box_different_lines.h
+
+1513870753 c:\users\abdelrahman youssef\downloads\compressed\berfore dynamic time\68 the main\grid_display.h
+
+1513872738 source:c:\users\shiko\desktop\project\71 the main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"player_rank.h"
+	"save_load.h"
+	"computer.h"
+	"type_erase_letters.h"
+	"check_for_closed_box_different_lines.h"
+	"grid_display.h"
+
+1513858500 c:\users\shiko\desktop\project\71 the main\player_rank.h
+
+1513723039 c:\users\shiko\desktop\project\71 the main\save_load.h
+
+1513876051 c:\users\shiko\desktop\project\71 the main\computer.h
+
+1513722290 c:\users\shiko\desktop\project\71 the main\type_erase_letters.h
+
+1513722734 c:\users\shiko\desktop\project\71 the main\check_for_closed_box_different_lines.h
+
+1513871100 c:\users\shiko\desktop\project\71 the main\grid_display.h
+
+1513947254 source:c:\users\shiko\desktop\project\72 the main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"player_rank.h"
+	"save_load.h"
+	"computer.h"
+	"type_erase_letters.h"
+	"check_for_closed_box_different_lines.h"
+	"grid_display.h"
+
+1513858500 c:\users\shiko\desktop\project\72 the main\player_rank.h
+
+1513723039 c:\users\shiko\desktop\project\72 the main\save_load.h
+
+1513945514 c:\users\shiko\desktop\project\72 the main\computer.h
+
+1513722290 c:\users\shiko\desktop\project\72 the main\type_erase_letters.h
+
+1513722734 c:\users\shiko\desktop\project\72 the main\check_for_closed_box_different_lines.h
+
+1513871100 c:\users\shiko\desktop\project\72 the main\grid_display.h
+
